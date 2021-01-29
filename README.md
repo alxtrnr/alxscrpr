@@ -1,16 +1,16 @@
 **A simple CLI URL scraper and xml site mapper.**
 
-    1. Reads an HTML document from a website, parses it and extracts all links to other pages/sites. Each link is printed
-    out line by line to standard out. Prints only the URL, not any of the surrounding HTML tags or attributes. Prompts
-    for an output directory to save a sitemap.
+1. Reads an HTML document from a website, parses it and extracts all links to other pages/sites. Each link is printed
+out line by line to standard out. Prints only the URL, not any of the surrounding HTML tags or attributes. Prompts
+for an output directory to save a sitemap.
 
-    2. Reads an HTML document saved to disk, parses it and extracts all links to other pages/sites. Each link is printed
-    out line by line to standard out. Prints only the URL, not any of the surrounding HTML tags or attributes. Prompts
-    for an output directory to save a sitemap.
+2. Reads an HTML document saved to disk, parses it and extracts all links to other pages/sites. Each link is printed
+out line by line to standard out. Prints only the URL, not any of the surrounding HTML tags or attributes. Prompts
+for an output directory to save a sitemap.
 
-    3. Takes in a URL file saved to disk containing all the sites to generate sitemaps for, prompts for an output
-    directory to save sitemaps for each site in the inputs, and for the maximum number of URLs to include in a sitemap
-    for extra-large sites.
+3. Takes in a URL file saved to disk containing all the sites to generate sitemaps for, prompts for an output
+directory to save sitemaps for each site in the inputs, and for the maximum number of URLs to include in a sitemap
+for extra-large sites.
 
 
 **How to Install**
