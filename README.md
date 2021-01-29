@@ -36,9 +36,9 @@ installed by simply unpacking the file.
 **Demo**
 
 If using Linux you're in luck! Linux has a builtin terminal command called script. Save the `dist/script_log` and 
-`dist/scriptfile` included in this repo to a local directory/folder. Open that directory in your terminal and type: 
+`dist/scriptfile` in this repo to a local directory/folder. Open that directory in your terminal and type: 
 ```bash
 scriptreplay --timing=script_log scriptfile
 ```
 Your terminal will the playback a session recorded with script to go through the functionality of this CLI. Watch to the
-end or just close the terminal whe you have had enough! 
+end or just close the terminal when you have had enough! 
